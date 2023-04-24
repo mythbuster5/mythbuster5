@@ -2,7 +2,7 @@
 
 It is not my real name. Actaully I'm really a big fun of [Mythbuster team](https://www.discovery.com/shows/mythbusters) which sparked my interest in science and techenology. Therefore, that is the reason way I raised this name for my github account.
 
-What I have learnt in my [undergraduate college](https://www.seu.edu.cn/english/) is about control system as well as image processing(pattern recognition). Spent most of the time there working out mathmatics formulas instead of coding. But now I'm working as an embedded software engineer with my outstanding colleges, and I'm tring my best to follow the pace of them in [espressif](https://www.espressif.com/) and [my contribute](https://github.com/espressif/esp-idf/commits?author=mythbuster5).
+What I have learnt in my [undergraduate college](https://www.seu.edu.cn/english/) is about control system as well as image processing(pattern recognition). Spent most of the time there working out mathmatics formulas instead of coding. But now I'm working as an embedded software engineer with my outstanding colleges, and I'm tring my best to follow the pace of them in [espressif](https://www.espressif.com/) and see [my contribute](https://github.com/espressif/esp-idf/commits?author=mythbuster5).
 
 I'm passion with new born techenologies, a programmer, a piano player, a table tennis player and a student. Be better, Be stronger.
 
